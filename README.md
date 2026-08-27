@@ -1,6 +1,6 @@
 # The Biggest Mistakes in Quant Finance
 
-A collection of lecture slides by **Lech A. Grzelak** that explores the most common conceptual, mathematical, numerical, and modeling mistakes made in quantitative finance. Rather than focusing on formulas alone, this series examines how seemingly reasonable assumptions can lead to incorrect pricing, misleading risk measures, flawed hedging strategies, unstable calibrations, and costly financial decisions. 【1-a181d9】
+A collection of lecture slides by **Lech A. Grzelak** that explores the most common conceptual, mathematical, numerical, and modeling mistakes made in quantitative finance. Rather than focusing on formulas alone, this series examines how seemingly reasonable assumptions can lead to incorrect pricing, misleading risk measures, flawed hedging strategies, unstable calibrations, and costly financial decisions.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Each topic is structured around:
 
 **Incorrect Belief → Quant Mistake → Mathematical Principle → Examples → Quant Rule**
 
-The objective is not simply to identify mistakes, but to develop a repeatable framework for recognizing, diagnosing, correcting, and preventing them in practice. 【1-a181d9】
+The objective is not simply to identify mistakes, but to develop a repeatable framework for recognizing, diagnosing, correcting, and preventing them in practice. 
 
 ## What You'll Learn
 
@@ -55,9 +55,9 @@ This repository is suitable for:
 
 > The most valuable skill in quantitative finance is not knowing a formula, but knowing when a formula is being used incorrectly.
 
-Many quant disasters begin with a simple conceptual error hidden inside a sophisticated model. This lecture series helps practitioners develop the critical thinking required to identify those errors before they become expensive mistakes. 【1-a181d9】
+Many quant disasters begin with a simple conceptual error hidden inside a sophisticated model. This lecture series helps practitioners develop the critical thinking required to identify those errors before they become expensive mistakes.
 
 ## Author
 
 **Lech A. Grzelak**  
-Senior Financial Engineer, author, lecturer, and co-author of *Mathematical Modeling and Computation in Finance: With Exercises and Python and MATLAB Computer Codes*. 【1-a181d9】
+Senior Financial Engineer, author, lecturer, and co-author of *Mathematical Modeling and Computation in Finance: With Exercises and Python and MATLAB Computer Codes*.
